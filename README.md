@@ -1,3 +1,5 @@
+[![Board Status](https://lorduakiti.visualstudio.com/2af6bbbf-d962-4bde-b2f8-cfeb0ad1b77c/6c834dc5-61c4-46ed-bbbe-4e501546a689/_apis/work/boardbadge/b052d75a-ffc4-4569-8879-4e16725bd826?columnOptions=1)](https://lorduakiti.visualstudio.com/2af6bbbf-d962-4bde-b2f8-cfeb0ad1b77c/_boards/board/t/6c834dc5-61c4-46ed-bbbe-4e501546a689/Microsoft.RequirementCategory/)
+
 # SUMMARY
 The **FOOOXYS** Project involves the creation of robots with disruptive innovative approaches.
 
